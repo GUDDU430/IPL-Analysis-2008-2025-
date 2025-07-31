@@ -119,13 +119,10 @@ IPL is a data-rich tournament, but insights are often buried in raw CSV files. S
 
 ## 📬 Contact
 
-📧 [mailto:gk009745@gmail.com]  
+📧 [gk009745@gmail.com](mailto:gk009745@gmail.com)
 📱 [LinkedIn](https://www.linkedin.com/in/guddu-kumar-567012289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 📊 Portfolio: [YourPortfolio.com](https://yourportfolio.com)
 
 ---
-
-> _“Cricket is not just a game of numbers — it’s a game of stories. This dashboard helps bring those stories to life through data.”_
-
 ---
 
