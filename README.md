@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that delivers a comprehensive analysis of the Indian Premier League (IPL) from 2008 to 2025. This project provides dynamic insights into team performances, player achievements, match statistics, and season trends — all in a visually compelling format.
 
-![Dashboard Preview](./images/IPL_Analysis_2008_2025.png)
+![Dashboard Preview]([./images/IPL_Analysis_2008_2025.png](https://github.com/GUDDU430/IPL-Analysis-2008-2025-/blob/main/IPL_Analysis_2008_2025_v1_pages-to-jpg-0001.jpg))
 
 ---
 
