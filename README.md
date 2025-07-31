@@ -102,7 +102,7 @@ IPL is a data-rich tournament, but insights are often buried in raw CSV files. S
 
 ### 🔹 IPL 2025 Season View
 
-![IPL 2025 Screenshot](./images/IPL_Analysis_2025.png)
+![IPL 2025 Screenshot]([./images/IPL_Analysis_2025.png](https://github.com/GUDDU430/IPL-Analysis-2008-2025-/blob/main/IPL_Analysis_2008_2025_v1_pages-to-jpg-0001.jpg))
 
 *(Add more snapshots here if needed: e.g., Player Analysis Page, Team Comparison Page, etc.)*
 
