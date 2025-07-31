@@ -104,7 +104,6 @@ IPL is a data-rich tournament, but insights are often buried in raw CSV files. S
 
 ![IPL 2025 Screenshot](https://github.com/GUDDU430/IPL-Analysis-2008-2025-/blob/main/IPL_Analysis_2008_2025_v1_pages-to-jpg-0001.jpg)
 
-*(Add more snapshots here if needed: e.g., Player Analysis Page, Team Comparison Page, etc.)*
 
 ---
 
@@ -117,26 +116,11 @@ IPL is a data-rich tournament, but insights are often buried in raw CSV files. S
 
 ---
 
-## 📌 Future Improvements
-
-- Add historical comparison for team performance (season over season)
-- Include playoff brackets and qualifier results
-- Enable drill-through to player match-level data
-- Add filters for venue or match type (e.g., Final, Eliminator)
-
----
-
-## 🤝 Contribution
-
-Have suggestions or want to collaborate?  
-Feel free to open a pull request or issue on GitHub!
-
----
 
 ## 📬 Contact
 
-📧 guddu@example.com  
-📱 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+📧 gk009745@gmail.com  
+📱 [LinkedIn](https://www.linkedin.com/in/guddu-kumar-567012289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 📊 Portfolio: [YourPortfolio.com](https://yourportfolio.com)
 
 ---
