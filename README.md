@@ -92,7 +92,7 @@ IPL is a data-rich tournament, but insights are often buried in raw CSV files. S
 
 You can download the full interactive Power BI dashboard using the link below:
 
-▶️ [Download IPL_Analysis_2008_2025.pbix]([https://github.com/GUDDU430/IPL-Analysis-2008-2025-/raw/main/IPL_Analysis_2008_2025.pbix](https://github.com/GUDDU430/IPL-Analysis-2008-2025-/blob/main/IPL_Analysis_2008_2025_v1.pbix))
+▶️ [Download IPL_Analysis_2008_2025.pbix](https://github.com/GUDDU430/IPL-Analysis-2008-2025-/raw/main/IPL_Analysis_2008_2025_v1.pbix)
 
 > 💡 Open the `.pbix` file using Power BI Desktop to explore the full report.
 
