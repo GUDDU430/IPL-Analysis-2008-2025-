@@ -130,6 +130,6 @@ You can download the full interactive Power BI dashboard using the link below:
 
 📧 [gk009745@gmail.com](mailto:gk009745@gmail.com)  
 📱 [LinkedIn](https://www.linkedin.com/in/guddu-kumar-567012289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-📊 Portfolio: [YourPortfolio.com](https://yourportfolio.com)
+<!--📊 Portfolio: [YourPortfolio.com](https://yourportfolio.com)-->
 
 ---
