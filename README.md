@@ -88,6 +88,16 @@ IPL is a data-rich tournament, but insights are often buried in raw CSV files. S
 
 ---
 
+## 📥 Download the Dashboard
+
+You can download the full interactive Power BI dashboard using the link below:
+
+▶️ [Download IPL_Analysis_2008_2025.pbix](https://github.com/GUDDU430/IPL-Analysis-2008-2025-/raw/main/IPL_Analysis_2008_2025.pbix)
+
+> 💡 Open the `.pbix` file using Power BI Desktop to explore the full report.
+
+---
+
 ## 📈 Business Impact & Use Cases
 
 - 🎯 **Team Strategy**: Analyze player performance across seasons  
@@ -104,25 +114,22 @@ IPL is a data-rich tournament, but insights are often buried in raw CSV files. S
 
 ![IPL 2025 Screenshot](https://github.com/GUDDU430/IPL-Analysis-2008-2025-/blob/main/IPL_Analysis_2008_2025_v1_pages-to-jpg-0001.jpg)
 
-
 ---
 
 ## 🚀 How to Use
 
-1. Open the `.pbix` file in Power BI Desktop
-2. Interact with slicers to filter by year, team, or player
-3. Hover over charts and cards for tooltips
-4. Export to PDF or PNG for presentations
+1. Download the `.pbix` file from the link above
+2. Open it in Power BI Desktop
+3. Interact with slicers to filter by year, team, or player
+4. Hover over charts and cards for tooltips
+5. Export to PDF or PNG for presentations
 
 ---
-
 
 ## 📬 Contact
 
-📧 [gk009745@gmail.com](mailto:gk009745@gmail.com)
-📱 [LinkedIn](https://www.linkedin.com/in/guddu-kumar-567012289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+📧 [gk009745@gmail.com](mailto:gk009745@gmail.com)  
+📱 [LinkedIn](https://www.linkedin.com/in/guddu-kumar-567012289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 📊 Portfolio: [YourPortfolio.com](https://yourportfolio.com)
 
 ---
----
-
